@@ -44,5 +44,9 @@
     ],
     "validDomains": [
         "m365tab962ca2.z5.web.core.windows.net"
-    ]
+    ],
+    "webApplicationInfo": {
+        "id": "ae557b4e-90e0-4668-b7a9-dc2cccf1983c",
+        "resource": "api://m365tab962ca2.z5.web.core.windows.net/ae557b4e-90e0-4668-b7a9-dc2cccf1983c"
+    }
 }
