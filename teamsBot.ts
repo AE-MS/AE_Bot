@@ -89,6 +89,16 @@ export class TeamsBot extends TeamsActivityHandler {
             "url": "https://adaptivecards.io"
         },
         {
+          "type": "Action.Submit",
+          "title": "Sign In",
+          "data": {
+            "msteams": {
+              "type": "signin",
+              "value": "https://m365tab962ca2.z5.web.core.windows.net/index.html"
+              }
+          }
+        },
+        {
             "type": "Action.ShowCard",
             "title": "Action Submit",
             "card": {

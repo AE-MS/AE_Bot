@@ -42,5 +42,7 @@
         "identity",
         "messageTeamMembers"
     ],
-    "validDomains": []
+    "validDomains": [
+        "m365tab962ca2.z5.web.core.windows.net"
+    ]
 }
